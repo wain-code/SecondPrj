@@ -6,7 +6,7 @@
 package iuh.fit.se;
 
 /*
- * @description: This class represents a bank with many bank accounts
+ * @description:
  * @outhor: Huynh Minh Thu
  * @date: 8/27/2024
  * @version: 1.0
